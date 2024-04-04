@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(18, 17, 17);
+   }
+
+.card {
+   height: 300px;
+   width: 320px;
+   background-color: rgba(255, 255, 255, 0.06);
+   -webkit-backdrop-filter: blur(20px);
+           backdrop-filter: blur(20px);
+   text-align: center;
+   padding-top:10px;
+   border-radius: 8px;
+   -webkit-box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
+           box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
+   font-family: 'Poppins',sans-serif;
+   margin-top: 20px;
+   color:wheat;
+   margin-left: 450px;
+   
+}
+       
+.icon {
+ margin-right: 5px;
+}
